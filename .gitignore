@@ -1,0 +1,4 @@
+cache/*
+*.pyc
+*.json
+*.geojson
