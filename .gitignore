@@ -1,4 +1,3 @@
 cache/*
 *.pyc
-*.json
 *.geojson

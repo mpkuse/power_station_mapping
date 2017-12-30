@@ -1,0 +1,708 @@
+{ 
+	"type": "FeatureCollection",
+	"features": [
+			{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.09556,
+			33.78
+			]
+		},
+		"properties": {
+			"store-name": "AES Alamitos LLC Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-114.68083,
+			33.61222
+			]
+		},
+		"properties": {
+			"store-name": "Blythe Energy Project",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-122.26861,
+			39.36528
+			]
+		},
+		"properties": {
+			"store-name": "Colusa Generating Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-116.85611,
+			34.86194
+			]
+		},
+		"properties": {
+			"store-name": "Coolwater Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.84556,
+			38.01722
+			]
+		},
+		"properties": {
+			"store-name": "Delta Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.95111,
+			37.37694
+			]
+		},
+		"properties": {
+			"store-name": "Donald Von Raesfeld Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.41889,
+			33.90722
+			]
+		},
+		"properties": {
+			"store-name": "El Segundo Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-119.47056,
+			35.28
+			]
+		},
+		"properties": {
+			"store-name": "Elk Hills Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.33694,
+			33.13639
+			]
+		},
+		"properties": {
+			"store-name": "Encina Power Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.75889,
+			38.01694
+			]
+		},
+		"properties": {
+			"store-name": "Gateway Generating Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.26556,
+			33.76944
+			]
+		},
+		"properties": {
+			"store-name": "Harbor Generating Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.09472,
+			33.76667
+			]
+		},
+		"properties": {
+			"store-name": "Haynes Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.36444,
+			34.595
+			]
+		},
+		"properties": {
+			"store-name": "High Desert Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.97806,
+			33.64417
+			]
+		},
+		"properties": {
+			"store-name": "AES Huntington Beach",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-124.20833,
+			40.7408444
+			]
+		},
+		"properties": {
+			"store-name": "Humboldt Bay Generating Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.16972,
+			33.73889
+			]
+		},
+		"properties": {
+			"store-name": "Inland Empire Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.98944,
+			35.43972
+			]
+		},
+		"properties": {
+			"store-name": "Kern River Cogeneration",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-119.59278,
+			37.29639
+			]
+		},
+		"properties": {
+			"store-name": "La Paloma Generating Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			0.0,
+			0.0
+			]
+		},
+		"properties": {
+			"store-name": "Los Esteros Critical Energy Facility",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.87306,
+			38.03
+			]
+		},
+		"properties": {
+			"store-name": "Los Medanos Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.31611,
+			34.17722
+			]
+		},
+		"properties": {
+			"store-name": "Magnolia Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-119.25056,
+			34.20639
+			]
+		},
+		"properties": {
+			"store-name": "Mandalay Generating Station",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.7648917,
+			38.0167917
+			]
+		},
+		"properties": {
+			"store-name": "Marsh Landing Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.744583,
+			37.219861
+			]
+		},
+		"properties": {
+			"store-name": "Metcalf Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.7819972,
+			36.8048722
+			]
+		},
+		"properties": {
+			"store-name": "Moss Landing Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.24278,
+			34.08083
+			]
+		},
+		"properties": {
+			"store-name": "Mountainview Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-119.16889,
+			34.12917
+			]
+		},
+		"properties": {
+			"store-name": "Ormond Beach Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-116.91667,
+			32.56972
+			]
+		},
+		"properties": {
+			"store-name": "Otay Mesa Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-117.1175,
+			34.11944
+			]
+		},
+		"properties": {
+			"store-name": "Palomar Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-120.58083,
+			36.66111
+			]
+		},
+		"properties": {
+			"store-name": "Panoche Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.84361,
+			34.95583
+			]
+		},
+		"properties": {
+			"store-name": "Pastoria Energy Facility",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.89444,
+			38.03917
+			]
+		},
+		"properties": {
+			"store-name": "Pittsburg Power Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-118.39528,
+			33.84972
+			]
+		},
+		"properties": {
+			"store-name": "AES Redondo LLC Gas Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			0.0,
+			0.0
+			]
+		},
+		"properties": {
+			"store-name": "Sunrise",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-122.13444,
+			37.63528
+			]
+		},
+		"properties": {
+			"store-name": "Russell City Energy Center",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			-121.48972,
+			37.71111
+			]
+		},
+		"properties": {
+			"store-name": "Tracy Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			0.0,
+			0.0
+			]
+		},
+		"properties": {
+			"store-name": "SMUD Cosumnes Power Plant",
+			"marker-size": "small",
+			"marker-color": "#d8b365",
+			"address": "N/A",
+			"machineType": "N/A",
+			"serialNo": "N/A",
+			"city": "N/A"
+		}
+		}
+	]
+}
