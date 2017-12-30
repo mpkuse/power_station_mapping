@@ -9,7 +9,7 @@ import code
 from bs4 import BeautifulSoup
 
 URL = 'https://en.wikipedia.org/wiki/List_of_major_power_stations_in_Guangdong'
-URL = 'https://en.wikipedia.org/wiki/List_of_major_power_stations_in_Gansu'
+# URL = 'https://en.wikipedia.org/wiki/List_of_major_power_stations_in_Gansu'
 
 html_response = uf.url_download( URL )
 
